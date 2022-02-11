@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50827e5f-544b-418c-a155-032186da41ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dqNUp5oQ9n18tckk6DtLDMf4IL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library-sp18/javalib/xchart-3.5.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byog.SaveDemo.Main" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.SaveDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byog.Core.Main" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byog.lab6.MemoryGame" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryGameSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byog.lab6.MemoryGameSolution" />
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.lab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="byog.Core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="byog.Core" />
+      <option name="MAIN_CLASS_NAME" value="byog.Core.test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MemoryGameSolution" />
+        <item itemvalue="Application.MemoryGame" />
+        <item itemvalue="JUnit.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50827e5f-544b-418c-a155-032186da41ad" name="Default Changelist" comment="" />
+      <created>1593148681556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593148681556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1517" y="332" key="#byog.lab6_in_proj2" timestamp="1593324918341">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1517" y="332" key="#byog.lab6_in_proj2/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593324918341" />
+    <state x="1626" y="442" key="FileChooserDialogImpl" timestamp="1593150175768">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1626" y="442" key="FileChooserDialogImpl/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593150175768" />
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.center/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.left/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.right/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.center/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1593391158978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.left/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158978" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.right/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state width="2517" height="491" key="GridCell.Tab.2.bottom" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.bottom/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state width="2517" height="491" key="GridCell.Tab.2.center" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.center/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state width="2517" height="491" key="GridCell.Tab.2.left" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.left/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state width="2517" height="491" key="GridCell.Tab.2.right" timestamp="1593391158979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.right/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391158979" />
+    <state x="828" y="345" key="SettingsEditor" timestamp="1593300993348">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="828" y="345" key="SettingsEditor/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593300993348" />
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1593391207800">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593391207800" />
+    <state x="856" y="437" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593302585897">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="856" y="437" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593302585897" />
+    <state x="662" y="321" key="new project wizard" timestamp="1593204536819">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="662" y="321" key="new project wizard/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593204536819" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1593232947969">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593232947969" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proj2$MemoryGameSolution.ic" NAME="MemoryGameSolution Coverage Results" MODIFIED="1593302452189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>byog.lab6.*</FILTER>
+    </SUITE>
+  </component>
+</project>

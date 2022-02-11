@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6470ec66-b69f-4565-ad83-fc3b51b9f3ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1crvTlSQVzLGC4aLywEtl2SFTlz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="HW0" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6470ec66-b69f-4565-ad83-fc3b51b9f3ee" name="Default Changelist" comment="" />
+      <created>1591299536090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591299536090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="844" y="467" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591302667302">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="844" y="467" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591302667302" />
+    <state x="1365" y="622" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591302507811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1365" y="622" key="#com.intellij.fileTypes.FileTypeChooser/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591302507811" />
+    <state x="1679" y="383" key="FileChooserDialogImpl" timestamp="1591301987192">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1679" y="383" key="FileChooserDialogImpl/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591301987192" />
+    <state x="1400" y="279" key="SettingsEditor" timestamp="1591301989531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1400" y="279" key="SettingsEditor/2560.102.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591301989531" />
+  </component>
+</project>
